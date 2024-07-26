@@ -9,7 +9,7 @@ import ListAlbum from "./pages/ListAlbum";
 import Sidebar from "./components/Sidebar";
 import Navbar from "./components/Navbar";
 
-export const url = 'https://spotify-clone-admin-w7of.onrender.com'
+export const url = 'https://spotify-clone-backend-og9a.onrender.com'
 
 const App = () => {
   return (
