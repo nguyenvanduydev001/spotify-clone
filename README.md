@@ -1,1 +1,4 @@
-# spotify-clone
+# Full stack Spotify clone 
+
+![review](./review.png)
+ 
