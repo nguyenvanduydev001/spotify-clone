@@ -1,11 +1,17 @@
-# Full stack Spotify clone 
+# Full Stack Spotify Clone
 
-![review](./review.png)
- 
+![Review](./review.png)
 
+A fully functional Spotify clone built with a full stack architecture. This project showcases both frontend and backend capabilities for a seamless music streaming experience.
 
- [Fontend](https://spotify-clone-fontend.onrender.com/)
+## Live Demo
 
- <hr>
+- **Frontend:** [View Frontend](https://spotify-clone-fontend.onrender.com/)
+  
+---
 
-[Backend](https://spotify-clone-admin-w7of.onrender.com/add-album)
+- **Backend:** [Access Backend](https://spotify-clone-admin-w7of.onrender.com/add-album)
+
+---
+
+Feel free to explore the live versions and enjoy the features of the application!
